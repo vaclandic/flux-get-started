@@ -2,5 +2,5 @@ apiVersion: v1
 kind: Namespace
 metadata:
   labels:
-    name: ops_test
-  name: ops_test
+    name: opstest
+  name: opstest
